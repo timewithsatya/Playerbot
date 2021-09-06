@@ -7,3 +7,4 @@ youtube_search_python
 pytgcalls==3.0.0.dev12
 git+https://github.com/pyrogram/pyrogram@master
 BeautifulSoup
+pillow
